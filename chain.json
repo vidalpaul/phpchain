@@ -1,0 +1,14 @@
+{"chain":
+  [{
+    "index":o,
+    "hashId":"random",
+    "timestamp":"1619219659",
+    "proof-of-work":"xyz",
+    "content":
+      {
+        "from":"netwoek",
+        "to":"user0",
+        "amount":1
+      }
+    }]
+}
